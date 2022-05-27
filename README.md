@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F70C0C&center=true&vCenter=true&width=1000&lines=console.log(%22Welcome+to+my+githup%22))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=F70C0C&center=true&vCenter=true&width=1000&height=200&lines=console.log(%22Welcome+to+my+githup%22))](https://git.io/typing-svg)
 
 
 <h1 align="center">Hi 👋, I'm Mohamed Mohamed EHab</h1>
