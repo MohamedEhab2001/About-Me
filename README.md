@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70C0C&lines=console.log(%22Welcome+to+my+githup%22))](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F70C0C&center=true&vCenter=true&width=800&lines=console.log(%22Welcome+to+my+githup%22))](https://git.io/typing-svg)
 
 
 
