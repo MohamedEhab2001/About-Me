@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mohamed EHab</h1>
 <h3 align="center">A passionate MERN developer from Egypt</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Have+1+year+of+experience)](https://git.io/typing-svg)
+
 - 🌱 I’m currently learning **Graph Ql , Next js , jest**
 
 - 👨‍💻 All of my projects are available at [Here](https://www.notion.so/My-previous-Projects-46d784f368944de68b0578384ee8322c)
