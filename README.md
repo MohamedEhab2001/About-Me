@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Graph Ql , Next js , jest**
 
-- 👨‍💻 All of my projects are available at [https://www.notion.so/My-previous-Projects-46d784f368944de68b0578384ee8322c](https://www.notion.so/My-previous-Projects-46d784f368944de68b0578384ee8322c)
+- 👨‍💻 All of my projects are available at [Here](https://www.notion.so/My-previous-Projects-46d784f368944de68b0578384ee8322c)
 
 - 💬 Ask me about **react , node , express , mongo db**
 
 - 📫 How to reach me **mohamedehab567t@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1zldvGJJm_LFLpXwB-L5S0_WW_xQx-6_V0p6wEmqNihM/edit?usp=sharing](https://docs.google.com/document/d/1zldvGJJm_LFLpXwB-L5S0_WW_xQx-6_V0p6wEmqNihM/edit?usp=sharing)
+- 📄 Know about my experiences [Here](https://docs.google.com/document/d/1zldvGJJm_LFLpXwB-L5S0_WW_xQx-6_V0p6wEmqNihM/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
