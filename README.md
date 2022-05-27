@@ -5,6 +5,12 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mohamed EHab</h1>
 <h3 align="center">A passionate MERN developer from Egypt with 1 years of experience</h3>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedehab2001&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedehab2001" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedehab2001" alt="mohamedehab2001" /></a> </p>
+
+
 I have a year and half of practical experience in Front-end Development. Overall,I am proficient in [Html , Css , JavaScript , Reactjs , Redux , Sass]. I also have knowledge of [Node js - Express js - python - Post man , GraphQl , Tybescript] I continuously practice and learn new tools, techniques, and trends to improve my skills. With my excellent Front-end skills, I have made a significant contribution in the area of Front-end in my previous roles. For Front-end , I designed and developed commercial and introductory sites for factories and offices,  I worked with Front-end developers to improve my skills. In addition, I also earned a praise from the Seniors that i worked with for sharing useful feedback and opinions to help build an effective work process for all team members that saved time and labor.
 
 
