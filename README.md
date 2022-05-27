@@ -7,7 +7,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
 
 
