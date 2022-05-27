@@ -1,15 +1,10 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70C0C&lines=console.log(%22Welcome+to+my+githup%22))](https://git.io/typing-svg)
+
+
+
+
 <h1 align="center">Hi 👋, I'm Mohamed Mohamed EHab</h1>
 <h3 align="center">A passionate MERN developer from Egypt with 1 years of experience</h3>
-
-
-
-
-
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
-
-
 
 
 
